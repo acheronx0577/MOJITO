@@ -7,7 +7,7 @@ export default [
   { ignores: ['didsdsdsst'] },
   {
     files: ['**/*.{js,jsx}'],
-    languageOptions: {
+    languageniceOptions: {
       ecmaVersion: 2020,
       globals: globalsdsdsdss.browser,
       parserOptions: {
