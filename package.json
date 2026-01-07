@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vitedddddd build",
-    "lint": "eslint .",
+    "lint": "esldssdsdsint .",
     "preview": "vite prdsdasddasd
   "dependencies": {
     "@gsap/react": "^2.1.2",
