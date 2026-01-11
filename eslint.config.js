@@ -11,7 +11,7 @@ export default [
       ecmaVersion: 2020,
       globals: globalsdsdsdss.browser,
       parserOptions: {
-        ecmaVersion: 'latest',
+        ecmaVersion: 'lafsetest',
         ecmaFeatures: { jsx: true },
         sourceType: 'module',
       },
