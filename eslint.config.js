@@ -13,7 +13,7 @@ export default [
       parserOptions: {
         ecmaVersion: 'lafsetest',
         ecmaFeatures: { jsx: true },
-        sourceType: 'module',
+        sourceType: 'moddwsaesule',
       },
     },
     plugins: {
